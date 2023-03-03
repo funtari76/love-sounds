@@ -11,7 +11,7 @@
 
 ## About
 
-The Love of Sounds is a.......
+The Love of Sounds is a JavaScript quiz game based on learning about the effect of sounds and frequencies on the human body.
 
 ## Table of Contents
 
