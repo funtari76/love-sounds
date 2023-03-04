@@ -105,8 +105,8 @@ The Love of Sounds is a JavaScript quiz game based on learning about the effect 
 
 ### Target Audience
 
- - People looking to learn about sounds quizzes.
- - People looking to learn about different types of sounds.
+ - People looking to learn about sounds via quizzes.
+ - People looking to learn about different types of sound frequencies.
 
 ### User Requirements and Expectations
 
