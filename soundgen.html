@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tone Generator</title>
+    <link rel="stylesheet" href="/assets/css/genstyles.css">
+</head>
+
+<body>
+    <h1>Tone Generator</h1>
+    <div class="controls">
+        <label for="frequency">Frequency:</label>
+        <input type="number" id="frequency" value="440" min="20" max="20000">
+        <label for="waveform">Waveform:</label>
+        <select id="waveform">
+            <option value="sine">Sine</option>
+            <option value="square">Square</option>
+            <option value="triangle">Triangle</option>
+            <option value="sawtooth">Sawtooth</option>
+        </select>
+        <button id="play">Play</button>
+        <button id="stop">Stop</button>
+    </div>
+    <script src="/assets/js/genscripts.js"></script>
+</body>
+
+</html>
