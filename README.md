@@ -76,21 +76,14 @@ The Love of Sounds is a JavaScript quiz game based on learning about the effect 
 ### User Goals
 
  - Be able to easily interact with the app to play the quiz.
- - Be able to choose different..........
  - Navigate the app seamlessly.
  - Receive clear instructions on the rules to play the quiz.
  - Receive the clear result on their current input options.
- - Receive the total score and result of the quiz.
+ - Receive feedback and result of the quiz.
 
 
-### Site Owner Goals
 
- - To provide user an easy-to-use app to play music quiz from The Music Quiz.
- - To provide the user with quizzes on different types of sounds........
- - To provide the user with the ability to view the current score.
- - To provide the user the ability to view the total score and result of the quiz.
- - To provide the user to view the total number of questions within a quiz.
- - To provide the ability to view the current status of question within a quiz.
+
 
 -----
 ## User Experience
