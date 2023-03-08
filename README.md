@@ -13,7 +13,7 @@
 
 ## About
 
-The Love of Sounds is a JavaScript quiz game based on learning about the effect of sounds and frequencies on the human body.
+The Love of Sounds is a JavaScript Quiz Game based on the introduction into learning about sounds and frequencies and how they can play a huge roll on the human body.
 
 ## Table of Contents
 
@@ -96,8 +96,6 @@ The Love of Sounds is a JavaScript quiz game based on learning about the effect 
 
 #### Typography
 
-- The Robot font is used as the main font for the whole project. Is adding to the project by importing from dream studio ai.
-
 ### Target Audience
 
  - People looking to learn about sounds via quizzes.
@@ -106,7 +104,7 @@ The Love of Sounds is a JavaScript quiz game based on learning about the effect 
 ### User Requirements and Expectations
 
  - The ability to seamlessly navigate through the app.
- - To use an app that provides a quiz on different types of music to the user.
+ - To use an app that provides a quiz on different types of sounds to the user.
 
 ### User Stories
 
@@ -118,13 +116,6 @@ The Love of Sounds is a JavaScript quiz game based on learning about the effect 
     - view the final score, an option to save the score with the user nane and list of top scores after completion of the quiz.
     - navigate using nav buttons and links easily.
 
-#### Site Owner
-2.  As the site owner, I would want:
-    - to provide a music relevent and well instructed quiz.
-    - the user to be able to see his score after each step.
-    - the user should be able to navigate through all the pages easily.
-    - the user learn something in regards to music.
-    - the user to get feedback based on their input.
 
 ### User Manual
 
@@ -132,13 +123,11 @@ The Love of Sounds is a JavaScript quiz game based on learning about the effect 
 
 #### Overview
 
-The Music Quiz app is for users who wish to enhance the knowledge about different type of sounds () by playing interactive quizzes. Each page provides the logo at the top left corner and nav button to navigate to home page.
+The Sound Quiz app is for users who wish to enhance the knowledge about different type of sounds and frequencies () by playing interactive quizzes.
 
 ---
 
 #### Home page
-
-The landing page of the website welcomes the user. It provides the toggle icon at the top right corner to navigate the user to different pages of the website. The "Let's Know" nav button directly navigates the user to the quiz page by randomly selecting one of the music type. Alternatively, user can select particular type of quiz through toggle button.
 
 ---
 
@@ -146,42 +135,17 @@ The landing page of the website welcomes the user. It provides the toggle icon a
 
 The Quiz page provides user the following features:
 - Question with four options.
-    - User selection is highlighted with green for right answer and red for wrong answer.
-    - User is also provided with textual feedback on the selection.
 - Progress bar for progress of the quiz.
-- Selected music type for the quiz.
+- Selected sound type for the quiz.
 - Current question number from total number of questions.
 - Current status of the score.  
 - Nav button to navigate to home page.
 - On completion of the quiz, user is automatically navigated to Quiz End page.
 
 ---
-
-#### Quiz End page
-
-The Quiz End page provides the following features:
-- Option to save the quiz score by entering user name. 
-- After saving the score along with user name, user is automatically navigated to either the trophy page or the high score page depending on user's score.
-- Nav button to navigate to home page.
-
 ---
 
-#### Trophy page
 
-The Trophy page provides either one of the following greeting messages:
-- User's detailed result with a Gold guitar icon, if the user gave all answers right.
-- User's detailed result with a Silver guitar icon, if the user gave nine answers right.
-- User's detailed result with a Bronze guitar icon, if the user gave eight answers right.
-
----
-
-#### High Score page
-
-The High Score page provides the following features:
-- Shows up to the top six high scores along with user name and icon of .
-- Nav button to navigate to home page.
-
----
 </details>
 
 [Back to Table Of Contents](#table-of-contents)
