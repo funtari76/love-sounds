@@ -1,8 +1,9 @@
 /* --------- Global style */
 
 body {
-    background-color: rgb(37, 37, 220);
-    font-family: "Raleway", sans-serif;
+    <<<<<<< HEAD background-color: rgb(37, 37, 220);
+    =======background-color: white;
+    >>>>>>>6715e92 (revamped the quiz html CSS) font-family: "Raleway", sans-serif;
     color: #445361;
     text-align: center;
 }
